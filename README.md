@@ -1,2 +1,0 @@
-# pythondlakazdego
-Challenges
